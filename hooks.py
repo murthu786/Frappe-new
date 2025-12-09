@@ -2,11 +2,11 @@ from . import __version__ as app_version
 
 app_name = "wati_integration"
 app_title = "Wati Integration"
-app_publisher = "Bhavesh Maheshwari"
+app_publisher = "murthu"
 app_description = "Integration with wati to send whats app message"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
-app_email = "iambhavesh95863@gmail.com"
+app_email = "luckymurthu@gmail.com"
 app_license = "MIT"
 
 # Includes in <head>
